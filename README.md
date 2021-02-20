@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![AndaMiro's github stats](https://github-readme-stats.vercel.app/api?username=AndaMiro&show_icons=true&theme=radical)
 <!--
 **AndaMiro/AndaMiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
