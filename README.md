@@ -23,6 +23,7 @@
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=C+Sharp&color=239120&logo=C+Sharp&logoColor=FFFFFF&label=" />
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Java&color=ff3730&label=" />
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Ruby&color=CC342D&logo=Ruby&logoColor=FFFFFF&label=" />
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=" />
   </br>
   <!--Editors-->
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Atom&color=66595C&logo=Atom&logoColor=FFFFFF&label=" />
