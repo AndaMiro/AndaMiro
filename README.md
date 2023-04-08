@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--![AndaMiro's github stats](https://github-readme-stats.vercel.app/api?username=AndaMiro&show_icons=true&theme=radical)-->
-![AndaMiro's github stats](https://github-readme-stats.vercel.app/api?username=AndaMiro&title_color=b833ff&hide_border=true)
+![AndaMiro's github stats](https://github-readme-stats.vercel.app/api?username=AndaMiro&title_color=b833ff)
 </br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndaMiro&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <!--
