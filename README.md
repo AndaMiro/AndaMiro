@@ -1,6 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=slice&color=ffffff&height=200" />
-<img align="center" src="https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Hellothere!&height=150&fontSize=60&desc=Only%20Use%20Text&descAlignY=75&descAlign=60" />
 <p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=ffffff&height=200" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Hellothere!&height=150&fontSize=60&desc=Only%20Use%20Text&descAlignY=75&descAlign=60" />
   <img src="https://img.shields.io/badge/-AndaMiro-grey?style=flat&logo=github&logoColor=white&link=https://github.com/AndaMiro/" />
   </br>
   <img src="https://github-readme-stats.vercel.app/api?username=AndaMiro&locale=kr&ayout=compact&bg_color=1c1c1c&title_color=a3a3a3&text_color=15ff00&hide_border=true&show_icons=true" />
