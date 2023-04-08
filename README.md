@@ -60,7 +60,7 @@
 
 <!--Repo-->
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Look%20at%20me&fontAlign=50&fontAlignY=35&color=ac47ff" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Watch%20me&fontAlign=50&fontAlignY=35&color=ac47ff" />
     <img src="https://github.com/AndaMiro/AndaMiro/blob/main/imgs/Watchme.gif?raw=true" />
 </div>
 
