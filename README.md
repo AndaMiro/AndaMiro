@@ -6,7 +6,7 @@
 <!--BOBY-->
 
 <!--Mini Badges -->
-<div align="left">
+<div align="center">
   <a href="http://github.com/AndaMiro"><img src="https://img.shields.io/badge/-AndaMiro-grey?style=flat&logo=github&logoColor=white" /></a>
 </div>
 <p align="left">
