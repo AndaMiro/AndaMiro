@@ -43,7 +43,9 @@
   </br></br></br></br></br>
   <!--Trophy-->
   <img src="https://capsule-render.vercel.app/api?type=transparent&text=✨&animation=twinkling" />
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=AndaMiro&row=1" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&text=🏆" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&text=✨&animation=twinkling" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AndaMiro&row=1" />
 </div>
 
 </br></br></br>
