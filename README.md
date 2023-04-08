@@ -42,9 +42,7 @@
   <a href="https://google.com"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Google,+he's+a+god.&color=4285F4&logo=Google&logoColor=FFFFFF&label=" /></a>
   </br></br></br></br></br>
   <!--Github Status-->
-</div>
-
-<div>
+  <div>
     <div style="float:left">
       <img align="top" src="https://github-profile-trophy.vercel.app/?username=AndaMiro&row=1" />
       </br>
@@ -56,6 +54,7 @@
       <img align="top" src="https://github.com/AndaMiro/AndaMiro/blob/main/imgs/Lookatmyhistory.gif?raw=true" />
     </div>
   </div>
+</div>
 
 </br></br></br>
 
