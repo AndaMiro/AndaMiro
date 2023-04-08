@@ -43,7 +43,6 @@
   </br></br></br></br></br>
   <!--Trophy-->
   <img src="https://github.com/AndaMiro/AndaMiro/blob/main/imgs/Lookatmyhistory.gif?raw=true" />
-  <img src="https://capsule-render.vercel.app/api?type=transparent&text=✨🏆✨&animation=twinkling" />
   <img src="https://github-profile-trophy.vercel.app/?username=AndaMiro&row=1" />
 </div>
 
