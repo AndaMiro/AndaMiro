@@ -41,14 +41,14 @@
   <a href="https://www.arduino.cc"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Arduino&color=00979D&logo=Arduino&logoColor=FFFFFF&label=" /></a>
   <a href="https://google.com"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Google,+he's+a+god.&color=4285F4&logo=Google&logoColor=FFFFFF&label=" /></a>
   </br></br></br></br></br>
-  <!--Trophy-->
+  <!--Github Status-->
   <img align="top" src="https://github-profile-trophy.vercel.app/?username=AndaMiro&row=1" />
   <img align="top" src="https://github.com/AndaMiro/AndaMiro/blob/main/imgs/Lookatmyhistory.gif?raw=true" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&reversal=true&color=auto&height=200&text=SLICE&fontAlign=70&rotate=0&fontAlignY=25&desc=desc%20function%20is%20also%20rotated.&descAlign=70.&descAlignY=44" />
 </div>
 
 </br></br></br>
 
-<!--Github Status -->
 <div align="left">
   <img src="https://capsule-render.vercel.app/api?type=slice&reversal=true&color=auto&height=200&text=SLICE&fontAlign=70&rotate=0&fontAlignY=25&desc=desc%20function%20is%20also%20rotated.&descAlign=70.&descAlignY=44" />
   </br>
