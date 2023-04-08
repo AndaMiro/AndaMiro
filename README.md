@@ -4,10 +4,12 @@
 </br>
 
 <!--BOBY-->
-<p align="left">
-<!--Badge-->
+
+<!--Mini Badges -->
+<div align="left">
   <a href="http://github.com/AndaMiro"><img src="https://img.shields.io/badge/-AndaMiro-grey?style=flat&logo=github&logoColor=white" /></a>
-  </br>
+</div>
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=AndaMiro&locale=kr&ayout=compact&bg_color=1c1c1c&title_color=a3a3a3&text_color=15ff00&hide_border=true&show_icons=true" />
   </br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndaMiro&locale=kr&layout=compact&bg_color=1c1c1c&title_color=a3a3a3&text_color=15ff00&hide_border=true&show_icons=true" />
