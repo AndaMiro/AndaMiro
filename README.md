@@ -1,6 +1,6 @@
 <!--Title-->
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=9c9c9c&text=Whatever%20you%20can%20imagine&height=150&fontSize=60&desc=I%20can%20create&descAlignY=90&animation=blink" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ac47ff&text=Whatever%20you%20can%20imagine&height=150&fontSize=60&desc=I%20can%20create&descAlignY=90&animation=blink" />
     </br></br>
     <img src="https://github.com/AndaMiro/AndaMiro/blob/main/imgs/Whateveryoucanimagine.gif?raw=true" />
 </div>
@@ -45,7 +45,7 @@
 
 <!--Github Status-->
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=9c9c9c&text=🏆(._.)🏆&height=70&fontSize=60&animation=twinkling" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ac47ff&text=🏆(._.)🏆&height=70&fontSize=60&animation=twinkling" />
     <img src="https://github-profile-trophy.vercel.app/?username=AndaMiro&row=1" />
     </br>
     <img align="top" src="https://github-readme-stats.vercel.app/api?username=AndaMiro&locale=kr&ayout=compact&bg_color=ffffff&title_color=000000&text_color=666666" />
