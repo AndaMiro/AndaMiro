@@ -47,8 +47,8 @@
 <div align="center">
     <div>
         <img src="https://github-profile-trophy.vercel.app/?username=AndaMiro&row=1" /></br>
-        <img style="padding-top: 5%;" align="top" src="https://github-readme-stats.vercel.app/api?username=AndaMiro&locale=kr&ayout=compact&bg_color=1c1c1c&title_color=a3a3a3&text_color=15ff00&hide_border=true" />
-        <img style="padding-top: 5%;" align="top" src="https://github.com/AndaMiro/AndaMiro/blob/main/imgs/Lookatmyhistory.gif?raw=true" />
+        <img align="top" src="https://github-readme-stats.vercel.app/api?username=AndaMiro&locale=kr&ayout=compact&bg_color=1c1c1c&title_color=a3a3a3&text_color=15ff00&hide_border=true&border_radius=0" />
+        <img align="top" height="194" src="https://github.com/AndaMiro/AndaMiro/blob/main/imgs/Lookatmyhistory.gif?raw=true" />
         </br>
     </div>
 </div>
