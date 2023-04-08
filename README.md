@@ -1,7 +1,9 @@
 <!--Head-->
-<img align="center" src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ffffff&text=Whatever%20you%20can%20imagine&height=150&fontSize=60&desc=I%20can%20create&descAlignY=90&animation=blink" />
-</br>
-<img align="center" src="https://github.com/AndaMiro/AndaMiro/blob/main/imgs/Whateveryoucanimagine.gif?raw=true" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ffffff&text=Whatever%20you%20can%20imagine&height=150&fontSize=60&desc=I%20can%20create&descAlignY=90&animation=blink" />
+  </br>
+  <img src="https://github.com/AndaMiro/AndaMiro/blob/main/imgs/Whateveryoucanimagine.gif?raw=true" />
+</div>
 </br>
 
 <!--BOBY-->
