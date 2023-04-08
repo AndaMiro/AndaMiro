@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=SLICE&fontAlign=70&rotate=13&fontAlignY=25&desc=desc%20function%20is%20also%20rotated.&descAlign=70.&descAlignY=44" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=000000&height=200&text=SLICE&fontAlign=70&rotate=13&fontAlignY=25&desc=desc%20function%20is%20also%20rotated.&descAlign=70.&descAlignY=44" />
 <img align="center" src="https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Hellothere!&height=150&fontSize=60&desc=Only%20Use%20Text&descAlignY=75&descAlign=60" />
 <p align="left">
   <img src="https://img.shields.io/badge/-AndaMiro-grey?style=flat&logo=github&logoColor=white&link=https://github.com/AndaMiro/" />
