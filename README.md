@@ -65,6 +65,12 @@
     </br></br>
     <!--<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Watch%20me&fontAlign=50&fontAlignY=35&color=ac47ff" />-->
     <img src="https://github.com/AndaMiro/AndaMiro/blob/main/imgs/Watchme.gif?raw=true" />
+    </br></br>
+    <a href="https://github.com/AndaMiro/PyGameProject"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AndaMiro&repo=PyGameProject" /></a>
+    <a href="https://github.com/AndaMiro/Todo_Memo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AndaMiro&repo=Todo_Memo" /></a>
+    </br>
+    <a href="https://github.com/AndaMiro/Typing_Copy"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AndaMiro&repo=Typing_Copy" /></a>
+    <a href="https://github.com/AndaMiro/PMMP-RpgManager"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AndaMiro&repo=PMMP-RpgManager" /></a>
 </div>
 
 <!--Backjoon Status
