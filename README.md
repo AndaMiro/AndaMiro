@@ -15,6 +15,10 @@
   <a href="http://github.com/AndaMiro"><img src="https://img.shields.io/badge/-AndaMiro-grey?style=flat&logo=github&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/License-GPL-blue.svg" />
   </br></br>
+  <!--Os-->
+  <a href="https://www.microsoft.com/ko-kr/windows"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Windows&color=0078D6&logo=Windows&logoColor=FFFFFF&label=" /></a>
+  <a href="https://www.linux.org"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=222222&logo=Linux&logoColor=FCC624&label=" /></a>
+  </br>
   <!--Languages-->
   <a href="https://www.php.net"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=PHP&color=777BB4&logo=PHP&logoColor=FFFFFF&label=" /></a>
   <a href="https://learn.microsoft.com/ko-kr/cpp/cpp"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=C%2B%2B&color=00599C&logo=C%2B%2B&logoColor=FFFFFF&label=" /></a>
@@ -36,10 +40,6 @@
   <a href="https://www.anaconda.com"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Anaconda&color=44A833&logo=Anaconda&logoColor=FFFFFF&label=" /></a>
   <a href="https://www.arduino.cc"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Arduino&color=00979D&logo=Arduino&logoColor=FFFFFF&label=" /></a>
   <a href="https://google.com"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Google,+he's+a+god.&color=4285F4&logo=Google&logoColor=FFFFFF&label=" /></a>
-  </br>
-  <!--Os-->
-  <a href="https://www.microsoft.com/ko-kr/windows"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Windows&color=0078D6&logo=Windows&logoColor=FFFFFF&label=" /></a>
-  <a href="https://www.linux.org"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=222222&logo=Linux&logoColor=FCC624&label=" /></a>
   </br></br></br></br></br>
   <!--Trophy-->
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=AndaMiro&row=1" />
