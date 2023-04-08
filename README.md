@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/github/followers/AndaMiro.svg?style=social&label=Follow&maxAge=2592000" />
   <a href="http://github.com/AndaMiro"><img src="https://img.shields.io/badge/-AndaMiro-grey?style=flat&logo=github&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/License-GPL-blue.svg" />
-  </br>
+  </br></br>
   <!--Languages-->
   <a href="https://www.php.net"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=PHP&color=777BB4&logo=PHP&logoColor=FFFFFF&label=" /></a>
   <a href="https://learn.microsoft.com/ko-kr/cpp/cpp"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=C%2B%2B&color=00599C&logo=C%2B%2B&logoColor=FFFFFF&label=" /></a>
