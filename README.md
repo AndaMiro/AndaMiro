@@ -1,4 +1,4 @@
-<img align="center" src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ffffff&text=Whatever%20you%20imagine&height=5&fontSize=60&desc=Only%20Use%20Text&animation=blink" />
+<img align="center" src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ffffff&text=Whatever%20you%20imagine&height=15&fontSize=60&desc=Only%20Use%20Text&animation=blink" />
 </br>
 <p align="left">
   <img src="https://img.shields.io/badge/-AndaMiro-grey?style=flat&logo=github&logoColor=white&link=https://github.com/AndaMiro/" />
