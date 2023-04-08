@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋</h1>
+<!--<h1 align="center">Hi there 👋</h1>-->
 [![AndaMiro's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndaMiro&bg_color=1c1c1c&title_color=a3a3a3&text_color=15ff00&hide_border=true&show_icons=true&icon_color=a3a3a3))](https://github.com/anuraghazra/github-readme-stats)
 
 
