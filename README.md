@@ -53,7 +53,7 @@
 
 <!--Backjoon Status -->
 <div>
-  <a href="http://github.com/AndaMiro"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=andamiro&link=https://github.com/AndaMiro" /></a>
+  <a href="https://github.com/AndaMiro"><img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=andamiro&link=https://github.com/AndaMiro" /></a>
 </div>
 
 <!--
