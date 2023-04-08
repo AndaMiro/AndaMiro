@@ -36,6 +36,7 @@
   <a href="https://www.anaconda.com"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Anaconda&color=44A833&logo=Anaconda&logoColor=FFFFFF&label=" /></a>
   <a href="https://www.arduino.cc"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Arduino&color=00979D&logo=Arduino&logoColor=FFFFFF&label=" /></a>
   <a href="https://google.com"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Google,+he's+a+god.&color=4285F4&logo=Google&logoColor=FFFFFF&label=" /></a>
+  </br>
   <!--Os-->
   <a href=""><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=222222&logo=Linux&logoColor=FCC624&label=" /></a>
   </br></br></br></br></br>
