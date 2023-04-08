@@ -13,7 +13,7 @@
   </br>
   
   <!--Badge-->
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=andamiro" />
+  <a href="github.com/AndaMiro"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=andamiro" /></a>
 </p>
 
 <!--
