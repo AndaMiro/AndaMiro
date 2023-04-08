@@ -46,7 +46,7 @@
 <!--Github Status-->
 <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ffad14&text=🏆(._.)🏆&height=70&fontSize=60&animation=twinkling" />
-    </br>
+    </br></br>
     <img src="https://github-profile-trophy.vercel.app/?username=AndaMiro&row=1" />
     </br>
     <img align="top" src="https://github-readme-stats.vercel.app/api?username=AndaMiro&locale=kr&ayout=compact&bg_color=ffffff&title_color=000000&text_color=666666" />
