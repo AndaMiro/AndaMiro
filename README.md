@@ -16,9 +16,10 @@
 
 </br></br>
 
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=AndaMiro&row=1" />
+
 <!--Github Status -->
 <div align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=AndaMiro&row=1" />
   <img src="https://capsule-render.vercel.app/api?type=slice&reversal=true&color=auto&height=200&text=SLICE&fontAlign=70&rotate=0&fontAlignY=25&desc=desc%20function%20is%20also%20rotated.&descAlign=70.&descAlignY=44" />
   </br>
   <img src="https://github-readme-stats.vercel.app/api?username=AndaMiro&locale=kr&ayout=compact&bg_color=1c1c1c&title_color=a3a3a3&text_color=15ff00&hide_border=true&show_icons=true" />
