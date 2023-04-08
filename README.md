@@ -43,7 +43,7 @@
   </br></br></br></br></br>
   <!--Trophy-->
   <img src="https://github-profile-trophy.vercel.app/?username=AndaMiro&row=1" />
-  <img  src="https://github.com/AndaMiro/AndaMiro/blob/main/imgs/Lookatmyhistory.gif?raw=true" />
+  <img align="center" src="https://github.com/AndaMiro/AndaMiro/blob/main/imgs/Lookatmyhistory.gif?raw=true" />
 </div>
 
 </br></br></br>
