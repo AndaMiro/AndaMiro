@@ -1,5 +1,3 @@
-<h1 align="center">Hi there 👋</h1>
-
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Transparent&height=150&fontSize=60&desc=Only%20Use%20Text&descAlignY=75&descAlign=60" />
   <img src="https://img.shields.io/badge/-AndaMiro-grey?style=flat&logo=github&logoColor=white&link=https://github.com/AndaMiro/" />
