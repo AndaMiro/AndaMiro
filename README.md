@@ -10,6 +10,7 @@
 <!--BOBY-->
 <!--Mini Badges -->
 <div align="center">
+  <img src="https://img.shields.io/github/followers/AndaMiro.svg?style=social&label=Follow&maxAge=2592000" />
   <a href="http://github.com/AndaMiro"><img src="https://img.shields.io/badge/-AndaMiro-grey?style=flat&logo=github&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/License-GPL-blue.svg" />
 </div>
