@@ -1,15 +1,16 @@
+<!--Head-->
 <img align="center" src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ffffff&text=Whatever%20you%20can%20imagine&height=150&fontSize=60&desc=I%20can%20create&descAlignY=90&animation=blink" />
 </br>
 <img align="center" src="https://github.com/AndaMiro/AndaMiro/blob/main/imgs/Whateveryoucanimagine.gif?raw=true" />
 </br>
 
 <!--BOBY-->
-
 <!--Mini Badges -->
 <div align="center">
   <a href="http://github.com/AndaMiro"><img src="https://img.shields.io/badge/-AndaMiro-grey?style=flat&logo=github&logoColor=white" /></a>
 </div>
 
+</br></br>
 <!--Github Status -->
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=AndaMiro&locale=kr&ayout=compact&bg_color=1c1c1c&title_color=a3a3a3&text_color=15ff00&hide_border=true&show_icons=true" />
