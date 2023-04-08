@@ -19,6 +19,7 @@
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=C&color=222222&logo=C&logoColor=A8B9CC&label=" />
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=" />
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=C+Sharp&color=239120&logo=C+Sharp&logoColor=FFFFFF&label=" />
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Java&color=239120&logo=Java&logoColor=FFFFFF&label=" />
 </div>
 
 </br></br>
