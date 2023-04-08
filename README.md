@@ -1,7 +1,7 @@
-<!--Head-->
+<!--Title-->
 <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ffffff&text=Whatever%20you%20can%20imagine&height=150&fontSize=60&desc=I%20can%20create&descAlignY=90&animation=blink" />
-    </br>
+    </br></br>
     <img src="https://github.com/AndaMiro/AndaMiro/blob/main/imgs/Whateveryoucanimagine.gif?raw=true" />
 </div>
 
@@ -45,12 +45,11 @@
 
 <!--Github Status-->
 <div align="center">
-    <div>
-        <img src="https://github-profile-trophy.vercel.app/?username=AndaMiro&row=1" /></br>
-        <img align="top" src="https://github-readme-stats.vercel.app/api?username=AndaMiro&locale=kr&ayout=compact&bg_color=1c1c1c&title_color=a3a3a3&text_color=15ff00&hide_border=true&border_radius=0" />
-        <img align="top" height="194" src="https://github.com/AndaMiro/AndaMiro/blob/main/imgs/Lookatmyhistory.gif?raw=true" />
-        </br>
-    </div>
+    <img src="https://github-profile-trophy.vercel.app/?username=AndaMiro&row=1" />
+    </br>
+    <img align="top" src="https://github-readme-stats.vercel.app/api?username=AndaMiro&locale=kr&ayout=compact&bg_color=1c1c1c&title_color=a3a3a3&text_color=15ff00&hide_border=true&border_radius=0" />
+    <img align="top" height="194" src="https://github.com/AndaMiro/AndaMiro/blob/main/imgs/Lookatmyhistory.gif?raw=true" />
+    </br>
 </div>
 
 </br></br></br>
