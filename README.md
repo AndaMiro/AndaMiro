@@ -1,4 +1,4 @@
-<img src="imgs/Whateveryouimagine.gif" />
+<img src="https://github.com/AndaMiro/AndaMiro/blob/main/imgs/Whateveryoucanimagine.gif?raw=true" />
 <img align="center" src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ffffff&text=Whatever%20you%20imagine&height=150&fontSize=60&desc=I%20can%20create&descAlignY=90&animation=blink" />
 </br>
 <img src="https://user-images.githubusercontent.com/59996727/230723307-e558df5f-bc68-47b3-b192-3e6ec3bd6bac.gif" />
