@@ -2,6 +2,8 @@
 </br>
 <img align="center" src="https://github.com/AndaMiro/AndaMiro/blob/main/imgs/Whateveryoucanimagine.gif?raw=true" />
 </br>
+
+<!--BOBY-->
 <p align="left">
   <img src="https://img.shields.io/badge/-AndaMiro-grey?style=flat&logo=github&logoColor=white&link=https://github.com/AndaMiro/" />
   </br>
@@ -9,6 +11,8 @@
   </br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndaMiro&locale=kr&layout=compact&bg_color=1c1c1c&title_color=a3a3a3&text_color=15ff00&hide_border=true&show_icons=true" />
   </br>
+  
+  <!--Badge-->
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=andamiro" />
 </p>
 
