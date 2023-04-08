@@ -7,7 +7,6 @@
 
 </br>
 
-<!--BOBY-->
 <!--Mini Badges -->
 <div align="center">
     <!--Profile-->
@@ -40,30 +39,31 @@
     <a href="https://www.anaconda.com"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Anaconda&color=44A833&logo=Anaconda&logoColor=FFFFFF&label=" /></a>
     <a href="https://www.arduino.cc"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Arduino&color=00979D&logo=Arduino&logoColor=FFFFFF&label=" /></a>
     <a href="https://google.com"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Google,+he's+a+god.&color=4285F4&logo=Google&logoColor=FFFFFF&label=" /></a>
-    </br></br></br></br></br>
-    <!--Github Status-->
-    <div>
-        <div>
-            <img src="https://github-profile-trophy.vercel.app/?username=AndaMiro&row=1" />
-            </br>
-            <img
-                src="https://github-readme-stats.vercel.app/api?username=AndaMiro&locale=kr&ayout=compact&bg_color=1c1c1c&title_color=a3a3a3&text_color=15ff00&hide_border=true&show_icons=true" />
-            </br>
-            <img
-                src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndaMiro&locale=kr&layout=compact&bg_color=1c1c1c&title_color=a3a3a3&text_color=15ff00&hide_border=true&show_icons=true" />
-        </div>
-        <div><img align="top" src="https://github.com/AndaMiro/AndaMiro/blob/main/imgs/Lookatmyhistory.gif?raw=true" />
-        </div>
+</div>
+
+</br></br></br></br></br>
+
+<!--Github Status-->
+<div align="center">
+    <div align="right" style="float: left;">
+        <img src="https://github-profile-trophy.vercel.app/?username=AndaMiro&row=1" />
+        </br>
+        <img src="https://github-readme-stats.vercel.app/api?username=AndaMiro&locale=kr&ayout=compact&bg_color=1c1c1c&title_color=a3a3a3&text_color=15ff00&hide_border=true&show_icons=true" />
+        </br>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndaMiro&locale=kr&layout=compact&bg_color=1c1c1c&title_color=a3a3a3&text_color=15ff00&hide_border=true&show_icons=true" />
+    </div>
+    <div align="center">
+        <img src="https://github.com/AndaMiro/AndaMiro/blob/main/imgs/Lookatmyhistory.gif?raw=true" />
     </div>
 </div>
 
 </br></br></br>
 
-<!--Backjoon Status -->
+<!--Backjoon Status
 <div>
     <a href="https://github.com/AndaMiro"><img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=andamiro&link=https://github.com/AndaMiro" /></a>
 </div>
-
+ -->
 <!--
   **AndaMiro/AndaMiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
   
