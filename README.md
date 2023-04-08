@@ -43,8 +43,8 @@
   </br></br></br></br></br>
   <!--Github Status-->
   <div align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=AndaMiro&locale=kr&ayout=compact&bg_color=1c1c1c&title_color=a3a3a3&text_color=15ff00&hide_border=true&show_icons=true" />
     <img align="top" src="https://github-profile-trophy.vercel.app/?username=AndaMiro&row=1" />
+    <img src="https://github-readme-stats.vercel.app/api?username=AndaMiro&locale=kr&ayout=compact&bg_color=1c1c1c&title_color=a3a3a3&text_color=15ff00&hide_border=true&show_icons=true" />
   </div>
   <img align="top" src="https://github.com/AndaMiro/AndaMiro/blob/main/imgs/Lookatmyhistory.gif?raw=true" />
 </div>
