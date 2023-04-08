@@ -42,7 +42,7 @@
   <a href="https://google.com"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Google,+he's+a+god.&color=4285F4&logo=Google&logoColor=FFFFFF&label=" /></a>
   </br></br></br></br></br>
   <!--Trophy-->
-  <img src="" />
+  <img src="https://github.com/AndaMiro/AndaMiro/blob/main/imgs/Lookatmyhistory.gif?raw=true" />
   <img src="https://capsule-render.vercel.app/api?type=transparent&text=✨🏆✨&animation=twinkling" />
   <img src="https://github-profile-trophy.vercel.app/?username=AndaMiro&row=1" />
 </div>
