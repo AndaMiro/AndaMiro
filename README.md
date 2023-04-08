@@ -43,7 +43,7 @@
 
 </br></br></br></br></br>
 
-<!--Github Status-->
+<!--Status-->
 <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ffad14&text=🏆(._.)🏆&height=70&fontSize=60&animation=twinkling" />
     </br></br>
@@ -52,10 +52,11 @@
     <img align="top" src="https://github-readme-stats.vercel.app/api?username=AndaMiro&locale=kr&ayout=compact&bg_color=ffffff&title_color=000000&text_color=666666" />
     <img align="top" height="194" src="https://github.com/AndaMiro/AndaMiro/blob/main/imgs/Lookatmyhistory.gif?raw=true" />
     </br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndaMiro&locale=kr&layout=compact&bg_color=ffffff&title_color=000000&text_color=666666&show_icons=true" />
+    <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=andamiro&link=https://github.com/AndaMiro" />
 </div>
 
 </br></br></br>
-<!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndaMiro&locale=kr&layout=compact&bg_color=1c1c1c&title_color=a3a3a3&text_color=15ff00&hide_border=true&show_icons=true" />-->
 
 <!--Backjoon Status
 <div>
