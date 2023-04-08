@@ -41,7 +41,7 @@
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=AndaMiro&row=1" />
 </div>
 
-</br></br>
+</br></br></br>
 
 <!--Github Status -->
 <div align="left">
