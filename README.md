@@ -53,27 +53,7 @@
     <img align="top" height="194" src="https://github.com/AndaMiro/AndaMiro/blob/main/imgs/Lookatmyhistory.gif?raw=true" />
     </br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndaMiro&locale=kr&layout=compact&bg_color=ffffff&title_color=000000&text_color=666666&show_icons=true" />
-    <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=andamiro&link=https://github.com/AndaMiro" />
+    <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=andamiro" />
 </div>
 
 </br></br></br>
-
-<!--Backjoon Status
-<div>
-    <a href="https://github.com/AndaMiro"><img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=andamiro&link=https://github.com/AndaMiro" /></a>
-</div>
- -->
-<!--
-  **AndaMiro/AndaMiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-  
-  Here are some ideas to get you started:
-  
-  - 🔭 I’m currently working on ...
-  - 🌱 I’m currently learning ...
-  - 👯 I’m looking to collaborate on ...
-  - 🤔 I’m looking for help with ...
-  - 💬 Ask me about ...
-  - 📫 How to reach me: ...
-  - 😄 Pronouns: ...
-  - ⚡ Fun fact: ...
-  -->
