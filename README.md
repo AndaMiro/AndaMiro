@@ -13,6 +13,8 @@
   <img src="https://img.shields.io/github/followers/AndaMiro.svg?style=social&label=Follow&maxAge=2592000" />
   <a href="http://github.com/AndaMiro"><img src="https://img.shields.io/badge/-AndaMiro-grey?style=flat&logo=github&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/License-GPL-blue.svg" />
+  </br>
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=PHP&color=777BB4&logo=PHP&logoColor=FFFFFF" />
 </div>
 
 </br></br>
