@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋</h1>
 <img src="https://github-readme-stats.vercel.app/api?username=AndaMiro&bg_color=1c1c1c&title_color=a3a3a3&text_color=15ff00&hide_border=true&show_icons=true&icon_color=a3a3a3" />
 </br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndaMiro&layout=compact&bg_color=1c1c1c&title_color=a3a3a3&text_color=15ff00&hide_border=true&show_icons=true&icon_color=a3a3a3" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndaMiro&layout=compact&bg_color=1c1c1c&title_color=a3a3a3&text_color=15ff00&hide_border=true&show_icons=true&show_icons=false" />
 
 <!--
 **AndaMiro/AndaMiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
