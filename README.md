@@ -44,7 +44,7 @@
 </br></br></br></br></br>
 
 <!--Github Status-->
-<div align="center">
+<div align="left">
     <div align="right" style="float: left;">
         <img src="https://github-profile-trophy.vercel.app/?username=AndaMiro&row=1" />
         </br>
