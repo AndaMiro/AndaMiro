@@ -2,7 +2,7 @@
 <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ac47ff&text=Whatever%20you%20can%20imagine&height=150&fontSize=60&desc=I%20can%20create&descAlignY=90&animation=blink" />
     </br></br>
-    <img src="https://github.com/AndaMiro/AndaMiro/blob/main/imgs/asd-min.gif?raw=true" />
+    <img src="https://github.com/AndaMiro/AndaMiro/blob/main/imgs/asd.gif?raw=true" />
 </div>
 
 </br>
