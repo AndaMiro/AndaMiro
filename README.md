@@ -60,8 +60,8 @@
 
 <!--Repo-->
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ac47ff&text=Watch%20me&height=50&fontSize=60" />
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ac47ff&height=50&desc=Watch%20me&descAlignY=90&animation=blinking" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=199afc&text=Watch%20me&height=50&fontSize=60" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=199afc&height=50&desc=Watch%20me&descAlignY=90&animation=blinking" />
     </br></br>
     <!--<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Watch%20me&fontAlign=50&fontAlignY=35&color=ac47ff" />-->
     <img src="https://github.com/AndaMiro/AndaMiro/blob/main/imgs/Watchme.gif?raw=true" />
