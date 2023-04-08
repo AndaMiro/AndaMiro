@@ -48,7 +48,6 @@
     <img src="https://github-profile-trophy.vercel.app/?username=AndaMiro&row=1" />
     <div align="top">
         </br>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndaMiro&locale=kr&layout=compact&bg_color=1c1c1c&title_color=a3a3a3&text_color=15ff00&hide_border=true&show_icons=true" />
         <img src="https://github-readme-stats.vercel.app/api?username=AndaMiro&locale=kr&ayout=compact&bg_color=1c1c1c&title_color=a3a3a3&text_color=15ff00&hide_border=true&show_icons=true" />
         <img src="https://github.com/AndaMiro/AndaMiro/blob/main/imgs/Lookatmyhistory.gif?raw=true" />
         </br>
@@ -56,6 +55,8 @@
 </div>
 
 </br></br></br>
+
+<!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndaMiro&locale=kr&layout=compact&bg_color=1c1c1c&title_color=a3a3a3&text_color=15ff00&hide_border=true&show_icons=true" />-->
 
 <!--Backjoon Status
 <div>
