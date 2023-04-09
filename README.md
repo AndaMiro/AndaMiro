@@ -61,6 +61,7 @@
 <!--Repo-->
 <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=199afc&text=Watch%20me&height=60&fontSize=60" />
+    </br>
     <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=199afc&height=50&desc=Watch%20me&descAlignY=30&animation=blinking" />
     </br>
     <!--<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Watch%20me&fontAlign=50&fontAlignY=35&color=ac47ff" />-->
@@ -75,8 +76,9 @@
 
 </br></br></br></br></br>
 
-<!--Todo-->
+<!--Talk-->
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=32a856&text=I'm%20trying%20to...&height=60&fontSize=60" />
-    </br></br></br>
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=32a856&text=Dear%20bug%20from%20yesterday...&height=60&fontSize=60" />
+    </br></br>
+    <img src="https://github.com/AndaMiro/AndaMiro/blob/main/imgs/Dearbug.gif?raw=true" />
 </div>
