@@ -45,8 +45,8 @@
 
 <!--Status-->
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ffad14&text=🏆(._.)🏆&height=70&fontSize=60&animation=twinkling" />
-    </br></br>
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ffad14&text=🏆(._.)🏆&height=80&fontSize=60&animation=twinkling" />
+    </br></br></br>
     <img src="https://github-profile-trophy.vercel.app/?username=AndaMiro&row=1" />
     </br>
     <img align="top" src="https://github-readme-stats.vercel.app/api?username=AndaMiro&locale=kr&ayout=compact&bg_color=ffffff&title_color=000000&text_color=666666" />
@@ -60,9 +60,9 @@
 
 <!--Repo-->
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=199afc&text=Watch%20me&height=50&fontSize=60" />
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=199afc&height=50&desc=Watch%20me&descAlignY=90&animation=blinking" />
-    </br></br>
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=199afc&text=Watch%20me&height=60&fontSize=60" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=199afc&height=50&desc=Watch%20me&descAlignY=30&animation=blinking" />
+    </br>
     <!--<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Watch%20me&fontAlign=50&fontAlignY=35&color=ac47ff" />-->
     <img src="https://github.com/AndaMiro/AndaMiro/blob/main/imgs/Watchme.gif?raw=true" />
     </br></br>
@@ -73,22 +73,10 @@
     <a href="https://github.com/AndaMiro/PMMP-RpgManager"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AndaMiro&repo=PMMP-RpgManager" /></a>
 </div>
 
-<!--Backjoon Status
-<div>
-    <a href="https://github.com/AndaMiro"><img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=andamiro&link=https://github.com/AndaMiro" /></a>
+</br></br></br></br></br>
+
+<!--Todo-->
+<div align="center">
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=32a856&text=I'm%20trying%20to...&height=60&fontSize=60" />
+    </br></br></br>
 </div>
- -->
-<!--
-  **AndaMiro/AndaMiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-  
-  Here are some ideas to get you started:
-  
-  - 🔭 I’m currently working on ...
-  - 🌱 I’m currently learning ...
-  - 👯 I’m looking to collaborate on ...
-  - 🤔 I’m looking for help with ...
-  - 💬 Ask me about ...
-  - 📫 How to reach me: ...
-  - 😄 Pronouns: ...
-  - ⚡ Fun fact: ...
-  -->
