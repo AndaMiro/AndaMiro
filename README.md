@@ -78,7 +78,7 @@
 
 <!--Talk-->
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=32a856&text=Disgusting %20bugs&height=60&fontSize=60" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=32a856&text=Disgusting%20bugs&height=60&fontSize=60" />
     </br></br>
     <img src="https://github.com/AndaMiro/AndaMiro/blob/main/imgs/Dearbug.gif?raw=true" />
 </div>
