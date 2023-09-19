@@ -1,6 +1,6 @@
 <!--Title-->
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ac47ff&text=Whatever%20you%20can%20imagine&height=150&fontSize=60&desc=I%20can%20create&descAlignY=90&animation=blink" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ac47ff&text=Whatever%20you%20can%20imagine&height=150&fontSize=60&desc=I%20can%20create%20(maybe?)&descAlignY=90&animation=blink" />
     </br></br>
     <img src="https://github.com/AndaMiro/AndaMiro/blob/main/imgs/Whateveryoucanimagine.gif?raw=true" />
 </div>
@@ -62,7 +62,7 @@
 <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=199afc&text=Watch%20me&height=60&fontSize=60" />
     </br>
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=199afc&height=50&desc=Watch%20me&descAlignY=30&animation=blinking" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=199afc&height=50&desc=Watch%20me%20pls...&descAlignY=30&animation=blinking" />
     </br>
     <!--<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Watch%20me&fontAlign=50&fontAlignY=35&color=ac47ff" />-->
     <img src="https://github.com/AndaMiro/AndaMiro/blob/main/imgs/Watchme.gif?raw=true" />
