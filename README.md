@@ -19,21 +19,6 @@
 
 </br></br></br></br></br>
 
-<!--Status-->
-<div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ffad14&text=🏆(._.)🏆&height=80&fontSize=60&animation=twinkling" />
-    </br></br></br>
-    <img src="https://github-profile-trophy.vercel.app/?username=AndaMiro&row=1" />
-    </br>
-    <img align="top" src="https://github-readme-stats.vercel.app/api?username=AndaMiro&locale=kr&ayout=compact&bg_color=ffffff&title_color=000000&text_color=666666" />
-    <img align="top" height="194" src="https://github.com/AndaMiro/AndaMiro/blob/main/imgs/Lookatmyhistory.gif?raw=true" />
-    </br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndaMiro&locale=kr&layout=compact&bg_color=ffffff&title_color=000000&text_color=666666&show_icons=true" />
-    <a href="https://solved.ac/profile/andamiro"><img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=andamiro" /></a>
-</div>
-
-</br></br></br></br></br>
-
 <!--Repo-->
 <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=199afc&text=Watch%20me&height=60&fontSize=60" />
