@@ -14,20 +14,6 @@
     <a href="http://github.com/AndaMiro"><img src="https://img.shields.io/badge/-AndaMiro-grey?style=flat&logo=github&logoColor=white" /></a>
     <img src="https://img.shields.io/badge/License-GPL-blue.svg" />
     </br></br>
-    <!--Os-->
-    <a href="https://www.microsoft.com/ko-kr/windows"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Windows&color=0078D6&logo=Windows&logoColor=FFFFFF&label=" /></a>
-    <a href="https://www.linux.org"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=222222&logo=Linux&logoColor=FCC624&label=" /></a>
-    </br>
-    <!--Editors-->
-    <a href="https://github.blog/2022-06-08-sunsetting-atom"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Atom&color=66595C&logo=Atom&logoColor=FFFFFF&label=" /></a>
-    <a href="https://filezilla-project.org"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=FileZilla&color=BF0000&logo=FileZilla&logoColor=FFFFFF&label=" /></a>
-    <a href="https://www.putty.org"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Putty&color=f7df1e&label=" /></a>
-    <a href="https://visualstudio.microsoft.com"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio&color=5C2D91&logo=Visual+Studio&logoColor=FFFFFF&label=" /></a>
-    <a href="https://code.visualstudio.com"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=" /></a>
-    <a href="https://eclipseide.org"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Eclipse+IDE&color=2C2255&logo=Eclipse+IDE&logoColor=FFFFFF&label=" /></a>
-    <a href="https://www.jetbrains.com/ko-kr/pycharm"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=PyCharm&color=000000&logo=PyCharm&logoColor=FFFFFF&label=" /></a>
-    <a href="https://www.anaconda.com"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Anaconda&color=44A833&logo=Anaconda&logoColor=FFFFFF&label=" /></a>
-    <a href="https://www.arduino.cc"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Arduino&color=00979D&logo=Arduino&logoColor=FFFFFF&label=" /></a>
     <a href="https://google.com"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Google,+he's+a+god.&color=4285F4&logo=Google&logoColor=FFFFFF&label=" /></a>
 </div>
 
